@@ -1,0 +1,32 @@
+---
+id: 30502181
+name: Lightsworn Sabre
+type: Spell Card
+frameType: spell
+desc: 'Equip only to a "Lightsworn" monster. It gains 700 ATK. When this card is sent
+  from your Deck to the Graveyard: You can target 1 "Lightsworn" monster you control;
+  equip this card to that target.'
+race: Equip
+archetype: Lightsworn
+card_sets:
+- set_name: Astral Pack Five
+  set_code: AP05-EN023
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.13'
+- set_name: The Duelist Genesis
+  set_code: TDGS-EN059
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '2.47'
+card_images:
+- id: 30502181
+  image_url: https://images.ygoprodeck.com/images/cards/30502181.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/30502181.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/30502181.jpg
+card_prices:
+- cardmarket_price: '0.54'
+  tcgplayer_price: '0.59'
+  ebay_price: '7.16'
+  amazon_price: '1.46'
+  coolstuffinc_price: '0.79'
